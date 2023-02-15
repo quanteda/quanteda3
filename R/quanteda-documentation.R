@@ -79,7 +79,7 @@
 #' <https://github.com/quanteda/quanteda>
 #' @import methods Matrix
 #' @importFrom Rcpp evalCpp
-#' @useDynLib quanteda, .registration = TRUE
+#' @useDynLib quanteda3, .registration = TRUE
 "_PACKAGE"
 
 #' Pattern matching using valuetype

@@ -79,7 +79,7 @@ upgrade_fcm(x)
 
 \item{...}{values saved in the object meta fields. They overwrite values
 passed via \code{meta}. If not specified, default values in
-\code{\link[=make_meta]{make_meta()}} will be used.}
+\code{\link[quanteda:make_meta]{quanteda::make_meta()}} will be used.}
 
 \item{attrs}{a list of attributes to be reassigned}
 
